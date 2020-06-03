@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj",
+      "projectUniqueName": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj",
       "projectName": "KLADobj.GeneralLogic",
-      "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj",
+      "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj",
       "packagesPath": "C:\\Users\\Taklik\\.nuget\\packages\\",
-      "outputPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\obj\\",
+      "outputPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.GeneralLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

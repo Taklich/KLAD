@@ -17,7 +17,7 @@
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
 
-        <ListBox Grid.Column="0" Padding="5" Background="GreenYellow" Foreground="white" ItemsSource="{Binding KLADobjs}" SelectedItem="{Binding CurrentKLADobj}">
+        <ListBox Grid.Column="0" Padding="5" Background="Blue" Foreground="white" ItemsSource="{Binding KLADobjs}" SelectedItem="{Binding CurrentKLADobj}">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Margin="5">

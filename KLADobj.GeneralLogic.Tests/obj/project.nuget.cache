@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mkket3icnm/skVaEzQMsNWGw0onQaZ0cdiOZmtF3GbJuoK+4ZbZUNHtoL5L12rat7vbyZpKVX85Q8rWFoZdybw==",
+  "dgSpecHash": "y/H0T+8nqnrHvD7F61pZddwbhykyKhVeY+vfWY1EUXHotFts/f5PoNPyu7g/Kd3meC2pI/0vIxJJmky7nVtvUQ==",
   "success": true,
-  "projectFilePath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic.Tests\\KLADobj.GeneralLogic.Tests.csproj",
+  "projectFilePath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.GeneralLogic.Tests\\KLADobj.GeneralLogic.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Taklik\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Taklik\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

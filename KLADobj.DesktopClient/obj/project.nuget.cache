@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ATr265uaM4va6XLBb0ryM7kp2291OkInO/e4qZioF+l9UGHlh9EDLyh3h646+4dIVq4CXFrA3PXlou8idZz19Q==",
+  "dgSpecHash": "HSfx0sdfQ+Ma6s1TRM7p9Gb64E5vAy3yko90qUPRDtyCrksGbEwyPGHaq+pb3ZF9ttHxhbw8hiL39tI9ZH3WWA==",
   "success": true,
-  "projectFilePath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj",
+  "projectFilePath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Taklik\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
     "C:\\Users\\Taklik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",

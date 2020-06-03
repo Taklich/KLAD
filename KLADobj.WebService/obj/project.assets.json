@@ -1208,11 +1208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.WebService\\KLADobj.WebService.csproj",
+      "projectUniqueName": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.WebService\\KLADobj.WebService.csproj",
       "projectName": "KLADobj.WebService",
-      "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.WebService\\KLADobj.WebService.csproj",
+      "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.WebService\\KLADobj.WebService.csproj",
       "packagesPath": "C:\\Users\\Taklik\\.nuget\\packages\\",
-      "outputPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.WebService\\obj\\",
+      "outputPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.WebService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1231,8 +1231,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj": {
-              "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj"
+            "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj": {
+              "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab6\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj"
             }
           }
         }
