@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj": {}
+    "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj": {}
   },
   "projects": {
-    "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj": {
+    "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj",
+        "projectUniqueName": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj",
         "projectName": "KLADobj.DesktopClient",
-        "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj",
+        "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.DesktopClient\\KLADobj.DesktopClient.csproj",
         "packagesPath": "C:\\Users\\Taklik\\.nuget\\packages\\",
-        "outputPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.DesktopClient\\obj\\",
+        "outputPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.DesktopClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj": {
-                "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj"
+              "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj": {
+                "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj": {
+    "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj",
+        "projectUniqueName": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj",
         "projectName": "KLADobj.GeneralLogic",
-        "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj",
+        "projectPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.GeneralLogic\\KLADobj.GeneralLogic.csproj",
         "packagesPath": "C:\\Users\\Taklik\\.nuget\\packages\\",
-        "outputPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.GeneralLogic\\obj\\",
+        "outputPath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.GeneralLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

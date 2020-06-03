@@ -12,18 +12,19 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "parkwifis",
+      "launchUrl": "kladobjs",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "MoscowTransport.WebService": {
+    "KLADobj.WebService": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "parkwifis",
+      "launchUrl": "kladobjs",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "remoteDebugEnabled": false
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wSHhLHHiegBEdOE2X8H1liU+3EQw9s7DpvqLSeHoRaJ+rzcE0/YVNQ4QkaYZcgnv9Dy0gAhsM30gVy50o68Sng==",
+  "dgSpecHash": "eYTDsGva+ypLHz/b/WHZGvsybcNUym8iD73llRaN9KZ1m1H5urke9knHkwA5H79e70FZxITtwHnUtaGjr6r3TQ==",
   "success": true,
-  "projectFilePath": "D:\\3_курс\\3_курс_2_сем\\ООП\\NoDbNoMigr\\KLADobj.WebService\\KLADobj.WebService.csproj",
+  "projectFilePath": "D:\\3_курс\\3_курс_2_сем\\ООП\\Lab7\\NoDbNoMigr\\KLADobj.WebService\\KLADobj.WebService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Taklik\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Taklik\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
