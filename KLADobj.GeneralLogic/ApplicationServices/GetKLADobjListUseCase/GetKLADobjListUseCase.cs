@@ -4,7 +4,7 @@ using KLADobj.DomainObjects;
 using KLADobj.DomainObjects.Ports;
 using KLADobj.ApplicationServices.Ports;
 
-namespace KLADobj.ApplicationServices.GetFreeListUseCase
+namespace KLADobj.ApplicationServices.GetObjectStatusListUseCase
 {
     public class GetKLADobjListUseCase : IGetKLADobjListUseCase
     {
@@ -22,9 +22,9 @@ namespace KLADobj.ApplicationServices.GetFreeListUseCase
                 kladobjs = (kladobj != null) ? new List<kladobj>() { kladobj } : new List<kladobj>();
                 
             }
-            else if (request.Free != null)
+            else if (request.Objectstatus != null)
             {
-                kladobjs = await _readOnlyKLADobjRepository.QueryKLADobjs(new FreeCriteria(request.Free));
+                kladobjs = await _readOnlyKLADobjRepository.QueryKLADobjs(new ObjectStatusCriteria(request.Objectstatus));
             }
             else
             {

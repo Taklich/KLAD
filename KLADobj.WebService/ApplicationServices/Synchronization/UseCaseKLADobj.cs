@@ -26,9 +26,9 @@ namespace KLADobj.ApplicationServices.Synchronization
 
         public string Address { get; set; }
 
-        public string ChillType { get; set; }
+        public string AdmArea { get; set; }
 
-        public string Free { get; set; }
+        public string ObjectStatus { get; set; }
     }
 
     public class UseCaseKLADobj
@@ -81,8 +81,8 @@ namespace KLADobj.ApplicationServices.Synchronization
                         Name = kladobj_cells[i].Cells.Name,
                         Id = kladobj_cells[i].Number,
                         Address = kladobj_cells[i].Cells.Address,
-                        ChillType = kladobj_cells[i].Cells.ChillType,
-                        Free = kladobj_cells[i].Cells.Free
+                        AdmArea = kladobj_cells[i].Cells.AdmArea,
+                        ObjectStatus = kladobj_cells[i].Cells.ObjectStatus
                     });
 
                     System.Text.Json.JsonSerializer.SerializeAsync<kladobj>(fs2, kladobjs[i], options).GetAwaiter().GetResult();

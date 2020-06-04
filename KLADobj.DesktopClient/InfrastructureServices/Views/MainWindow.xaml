@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KLADobj.DesktopClient"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Сервис найти деда" Height="450" Width="800">
     <Window.Resources>
         <FontFamily x:Key="Montserrat-Medium">
             pack://application:,,,/Fonts/#Med Uch Regular
@@ -13,11 +13,12 @@
     </Window.Resources>
     <Grid TextBlock.FontFamily="{StaticResource Montserrat-Medium}" TextBlock.FontSize="14">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="0.5*" />
-            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="69*" />
+            <ColumnDefinition Width="198*"/>
+            <ColumnDefinition Width="533*" />
         </Grid.ColumnDefinitions>
 
-        <ListBox Grid.Column="0" Padding="5" Background="Blue" Foreground="white" ItemsSource="{Binding KLADobjs}" SelectedItem="{Binding CurrentKLADobj}">
+        <ListBox Grid.Column="0" Padding="5" Background="Blue" Foreground="white" ItemsSource="{Binding KLADobjs}" SelectedItem="{Binding CurrentKLADobj}" Grid.ColumnSpan="3" Margin="0,0,533,0">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Margin="5">
@@ -27,12 +28,12 @@
             </ListBox.ItemTemplate>
         </ListBox>
 
-        <StackPanel Grid.Column="1" DataContext="{Binding CurrentKLADobj}" Margin="0,0,0,0">
-            <TextBlock Padding="3" FontWeight="Bold" Text="More info:" HorizontalAlignment="Center"/>
+        <StackPanel Grid.Column="2" DataContext="{Binding CurrentKLADobj}">
+            <TextBlock Padding="3" FontWeight="Bold" Text="Где закопан дед:" HorizontalAlignment="Center"/>
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=Name: {0}, Path=Name }"/>
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=Address: {0}, Path=Address}" />
-            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=ChillType: {0}, Path=ChillType}" />
-            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=Free: {0}, Path=Free}" />
+            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=AdmArea: {0}, Path=AdmArea}" />
+            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=ObjectStatus: {0}, Path=ObjectStatus}" />
         </StackPanel>
     </Grid>
 </Window>

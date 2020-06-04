@@ -1,4 +1,4 @@
-﻿using KLADobj.ApplicationServices.GetFreeListUseCase;
+﻿using KLADobj.ApplicationServices.GetObjectStatusListUseCase;
 using KLADobj.ApplicationServices.Ports;
 using KLADobj.DomainObjects;
 using System.Collections.Generic;

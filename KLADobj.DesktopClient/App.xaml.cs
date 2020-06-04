@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using KLADobj.ApplicationServices.GetFreeListUseCase;
+using KLADobj.ApplicationServices.GetObjectStatusListUseCase;
 using KLADobj.ApplicationServices.Ports.Cache;
 using KLADobj.ApplicationServices.Repositories;
 using KLADobj.DesktopClient.InfrastructureServices.ViewModels;

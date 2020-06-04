@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace KLADobj.ApplicationServices.GetFreeListUseCase
+namespace KLADobj.ApplicationServices.GetObjectStatusListUseCase
 {
     public class GetKLADobjListUseCaseResponse : UseCaseResponse
     {

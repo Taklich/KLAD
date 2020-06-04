@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using KLADobj.InfrastructureServices.Gateways.Database;
 using Microsoft.EntityFrameworkCore;
-using KLADobj.ApplicationServices.GetFreeListUseCase;
+using KLADobj.ApplicationServices.GetObjectStatusListUseCase;
 using KLADobj.ApplicationServices.Ports.Gateways.Database;
 using KLADobj.ApplicationServices.Repositories;
 using KLADobj.DomainObjects.Ports;

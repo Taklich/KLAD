@@ -8,7 +8,6 @@ D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Te
 D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\bin\Debug\netcoreapp3.1\appsettings.json
 D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\bin\Debug\netcoreapp3.1\update_database\kladobj-03.06.2020.json
 D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\bin\Debug\netcoreapp3.1\KLADobj.WebService.exe
 D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\bin\Debug\netcoreapp3.1\KLADobj.GeneralLogic.Tests.deps.json
 D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\bin\Debug\netcoreapp3.1\KLADobj.GeneralLogic.Tests.runtimeconfig.json
@@ -144,3 +143,4 @@ D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Te
 D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\KLADobj.GeneralLogic.Tests.dll
 D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\KLADobj.GeneralLogic.Tests.pdb
 D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\KLADobj.GeneralLogic.Tests.genruntimeconfig.cache
+D:\3_курс\3_курс_2_сем\ООП\Lab7\NoDbNoMigr\KLADobj.GeneralLogic.Tests\bin\Debug\netcoreapp3.1\update_database\kladobj-03.06.2020.json

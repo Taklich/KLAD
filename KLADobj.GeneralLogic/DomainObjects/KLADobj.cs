@@ -8,8 +8,8 @@ namespace KLADobj.DomainObjects
     {
         public string Name { get; set; }
         public string Address { get; set; }
-        public string ChillType { get; set; }
-        public string Free { get; set; }
+        public string AdmArea { get; set; }
+        public string ObjectStatus { get; set; }
 
     }
 }

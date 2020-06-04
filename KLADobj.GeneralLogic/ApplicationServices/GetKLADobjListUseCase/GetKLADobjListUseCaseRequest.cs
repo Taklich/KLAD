@@ -3,11 +3,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace KLADobj.ApplicationServices.GetFreeListUseCase
+namespace KLADobj.ApplicationServices.GetObjectStatusListUseCase
 {
     public class GetKLADobjListUseCaseRequest : IUseCaseRequest<GetKLADobjListUseCaseResponse>
     {
-        public string Free { get; private set; }
+        public string Objectstatus { get; private set; }
         public long? KLADobjId { get; private set; }
 
         private GetKLADobjListUseCaseRequest()
@@ -22,9 +22,9 @@ namespace KLADobj.ApplicationServices.GetFreeListUseCase
         {
             return new GetKLADobjListUseCaseRequest() { KLADobjId = kladobjId };
         }
-        public static GetKLADobjListUseCaseRequest CreateKLADobjsRequest(string free)
+        public static GetKLADobjListUseCaseRequest CreateKLADobjsRequest(string objectstatus)
         {
-            return new GetKLADobjListUseCaseRequest() { Free = free };
+            return new GetKLADobjListUseCaseRequest() { Objectstatus = objectstatus };
         }
     }
 }

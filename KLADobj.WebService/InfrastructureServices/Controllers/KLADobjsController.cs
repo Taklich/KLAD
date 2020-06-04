@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using KLADobj.DomainObjects;
-using KLADobj.ApplicationServices.GetFreeListUseCase;
+using KLADobj.ApplicationServices.GetObjectStatusListUseCase;
 using KLADobj.InfrastructureServices.Presenters;
 
 namespace KLADobj.InfrastructureServices.Controllers
@@ -40,11 +40,11 @@ namespace KLADobj.InfrastructureServices.Controllers
             return presenter.ContentResult;
         }
 
-        [HttpGet("free/{free}")]
-        public async Task<ActionResult> GetFreeKLADobjs(string free)
+        [HttpGet("objectStatus/{objectStatus}")]
+        public async Task<ActionResult> GetObjectStatusKLADobjs(string objectStatus)
         {
             var presenter = new KLADobjListPresenter();
-            await _getKLADobjListUseCase.Handle(GetKLADobjListUseCaseRequest.CreateKLADobjsRequest(free), presenter);
+            await _getKLADobjListUseCase.Handle(GetKLADobjListUseCaseRequest.CreateKLADobjsRequest(objectStatus), presenter);
             return presenter.ContentResult;
         }
     }

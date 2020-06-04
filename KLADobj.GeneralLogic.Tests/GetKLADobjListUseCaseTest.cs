@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Linq;
 using Xunit;
-using KLADobj.ApplicationServices.GetFreeListUseCase;
+using KLADobj.ApplicationServices.GetObjectStatusListUseCase;
 using System.Linq.Expressions;
 using KLADobj.ApplicationServices.Ports;
 using KLADobj.DomainObjects.Ports;
@@ -17,10 +17,10 @@ namespace KLADobj.WebService.Core.Tests
         private InMemoryKLADobjRepository CreateKLADobjRepository()
         {
             var repo = new InMemoryKLADobjRepository(new List<kladobj> {
-                new kladobj { Id = 1, Free = "закрытое", Name = "Домодедовское кладбище"},
-                new kladobj { Id = 2, Free = "закрытое", Name = "Жохово кладбище"},
-                new kladobj { Id = 3, Free = "открытое", Name = "Захарьинское кладбище"},
-                new kladobj { Id = 4, Free = "закрытое", Name = "Зеленоградское (Северное) кладбище"},
+                new kladobj { Id = 1, ObjectStatus = "закрытое", Name = "Домодедовское кладбище"},
+                new kladobj { Id = 2, ObjectStatus = "закрытое", Name = "Жохово кладбище"},
+                new kladobj { Id = 3, ObjectStatus = "открытое", Name = "Захарьинское кладбище"},
+                new kladobj { Id = 4, ObjectStatus = "закрытое", Name = "Зеленоградское (Северное) кладбище"},
             });
             return repo;
         }

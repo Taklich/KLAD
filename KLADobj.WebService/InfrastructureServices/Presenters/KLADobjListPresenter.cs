@@ -1,4 +1,4 @@
-﻿using KLADobj.ApplicationServices.GetFreeListUseCase;
+﻿using KLADobj.ApplicationServices.GetObjectStatusListUseCase;
 using System.Net;
 using Newtonsoft.Json;
 using KLADobj.ApplicationServices.Ports;
